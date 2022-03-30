@@ -5,8 +5,13 @@ h3 {
 img {
    width: 300px; 
    height: 300px; 
+
 }
 
 .photos {
    text-align: center;
 }
+
+div {
+    border-style: solid;
+  }
